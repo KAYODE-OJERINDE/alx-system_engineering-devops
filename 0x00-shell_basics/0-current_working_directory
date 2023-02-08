@@ -1,2 +1,2 @@
 #!/bin/bash
-git rev-parse --show-toplevel
+git rev-parse
