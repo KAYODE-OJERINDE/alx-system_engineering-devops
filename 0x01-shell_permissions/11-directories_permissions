@@ -1,0 +1,2 @@
+11-directories_permissions
+find _ -type d -exec chmod 755 {} +
