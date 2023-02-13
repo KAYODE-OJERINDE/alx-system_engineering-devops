@@ -1,2 +1,2 @@
 #!/bin/bash
-count=$(find . -type d | wc -l); echo "Number of directories and subdirectories in the current directory: $count"
+find . -type d | wc -l
